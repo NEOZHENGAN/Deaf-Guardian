@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+snapshots/
+*.pt
+*.task
+vosk_model/
+.venv/
+venv/
+.idea/
+.vscode/
