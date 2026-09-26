@@ -36,6 +36,17 @@ To protect user privacy and optimize storage, **all real-time communication logs
 
 ---
 
+## 📁 Repository Structure
+
+```
+Deaf-Guardian/
+├── docs/                  # Documentation
+├── hardware&production/   # PCB design files & production-ready schematics
+└── Snapshots/             # Auto-saved hazard/SOS snapshot images
+```
+
+---
+
 ## 🚀 How to Run Locally
 
 ### Prerequisites
